@@ -16,4 +16,9 @@ They can detect patterns like edges, shapes, and textures in the images that hel
 This kind of AI can help doctors catch cancer earlier and make faster diagnoses.
 It shows how deep learning can be used in medical imaging to save lives.
 
-![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+
+<h2 align="center">
+:dizzy: Ask me anything! :sparkles:<br><br>
+
+<a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
+</h2>
